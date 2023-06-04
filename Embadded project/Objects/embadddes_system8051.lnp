@@ -1,0 +1,3 @@
+".\Objects\code8051.obj" 
+TO ".\Objects\embadddes_system8051" 
+PRINT(".\Listings\embadddes_system8051.m51")
